@@ -10,5 +10,7 @@
 | 5. | Sudono Tanjung | @sudtanj |              				 00000012273 |
 
 ## Book Reference
-Book Title  = Modern Operating Systems (3rd Edition) <br>
-Book Author = Andrew S. Tanenbaum
+###Book Title   
+Modern Operating Systems (3rd Edition) <br>
+###Book Author 
+Andrew S. Tanenbaum
