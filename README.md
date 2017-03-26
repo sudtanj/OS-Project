@@ -10,6 +10,8 @@
 | 5. | <img src="https://avatars.githubusercontent.com/sudtanj" width=100 height=100/> | Sudono Tanjung | <a title="@sudtanj" href="https://github.com/sudtanj">@sudtanj</a> |              				 00000012273 |
 
 ## Book Reference
+### Book Cover
+<img src="https://images-na.ssl-images-amazon.com/images/I/51u3BZpfrML._SX380_BO1,204,203,200_.jpg" width=200 height=300/><br>
 ### Book Title   
 Modern Operating Systems (3rd Edition) <br>
 ### Book Author 
