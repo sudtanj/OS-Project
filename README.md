@@ -1,4 +1,4 @@
-# Operating System Project [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+# Operating System Project [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/sudtanj/OS-Project)
 
 ## Project Member
 | No | Profile Picture | Member Name | Github Userid | Student Id Number |
